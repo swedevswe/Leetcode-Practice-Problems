@@ -32,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
