@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Memoization
 |  |
 | ------- |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3396-valid-word) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
