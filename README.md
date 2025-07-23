@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3396-valid-word) |
 ## Heap (Priority Queue)
 |  |
@@ -51,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1813-maximum-erasure-value) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
