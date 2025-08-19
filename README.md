@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -85,4 +86,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
