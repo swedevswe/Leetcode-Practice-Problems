@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1813-maximum-erasure-value](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Memoization
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
