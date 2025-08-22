@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1448-maximum-69-number](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+## Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
