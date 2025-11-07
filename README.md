@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,10 +53,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1813-maximum-erasure-value) |
+| [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,4 +106,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
