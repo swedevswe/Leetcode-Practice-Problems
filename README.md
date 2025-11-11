@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1813-maximum-erasure-value](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3396-valid-word](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3396-valid-word) |
 ## Heap (Priority Queue)
 |  |
@@ -96,11 +98,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1448-maximum-69-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3830-find-closest-person](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Brainteaser
 |  |
