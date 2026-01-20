@@ -1,16 +1,16 @@
 class Solution {
     public int[] minBitwiseArray(List<Integer> nums) {
-        int[] result = new int[nums.size()];
-        for(int i = 0; i < nums.size(); i++){
-            int original = nums.get(i);
-            int candidate = -1;
-            for(int j = 1; j < original; j++){
-                if((j | (j + 1)) == original){
-                    candidate = j;
-                    break;
-                }
+        int n = nums.size();
+        int[] result = new int[n];
+        for (int i = 0; i < n; i++){
+            int x = nums.get(i);
+            int res = -1;
+            int d = 1;
+            while ((x & d) != 0){
+                res = x - d;
+                d <<= 1;
             }
-            result[i] = candidate;
+            result[i] = res;
         }
         return result;
     }
