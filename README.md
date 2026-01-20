@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3863-power-grid-maintenance](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Tree
 |  |
 | ------- |
