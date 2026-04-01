@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1813-maximum-erasure-value](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/1813-maximum-erasure-value) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/swedevswe/Leetcode-Practice-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Brainteaser
